@@ -1,0 +1,10 @@
+@charset "UTF-8";
+
+a {
+	color: #FFFF;
+	text-decoration: none;
+}
+
+.list-group-item {
+	background: grey;
+}
